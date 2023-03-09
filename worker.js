@@ -1,7 +1,6 @@
 var CACHE_NAME = 'nomad-2023-scout';
 var urlsToCache = [
-  '/',
-  '/completed'
+  '/'
 ];
 
 // Install a service worker
